@@ -1,5 +1,5 @@
 import arcade
-from actual.guidle import *
+from guidle import *
 
 window = arcade.Window(750, 700, "RPGDLE")
 start_view = GameView()
